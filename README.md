@@ -1,5 +1,5 @@
-# DistributedBankSystemWithLogicalClock
-This project is based on Distributed Banking System (gPRC) Project, the differences are:
+# Logical Clock Project
+This project is based on gRPC Project, the differences are:
 1. adding a counter to apply the Lamport's Logical Clock Algorithm.
 2. the customer processes (client) run concurrently.
 The logical clock functionalities should fulfill the following:
